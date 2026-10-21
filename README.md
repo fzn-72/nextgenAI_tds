@@ -13,6 +13,7 @@
   - Khadraoui Oussama
   - Richard kuete
   - VERDES Adrian
+  - Samson Clément
   
 
 ## Project objective
