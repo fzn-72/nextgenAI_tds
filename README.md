@@ -11,7 +11,8 @@
   - DE GENTILE Océane
   - SAAID Myriam
   - Khadraoui Oussama
-  - Richard kuete 
+  - Richard kuete
+  - VERDES Adrian
   
 
 ## Project objective
