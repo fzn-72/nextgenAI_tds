@@ -10,7 +10,7 @@
   - PERKINS Luca
   - DE GENTILE Océane
   - SAAID Myriam
-  - [Other members to be confirmed]
+  - Khadraoui Oussama
 
 ## Project objective
 
