@@ -3,7 +3,7 @@
 ## Group (DIA 1 - SUB GROUP 3)
 
 - **Course:** Next Generation AI — ESILV
-- **Student kit version:** `2026-10-14`
+- **Student kit version:** `2026-10-21`
 - **Repository:** Shared group repository for TD1, TD2 and TD3
 - **Group members:**
   - NORAT Faizan
