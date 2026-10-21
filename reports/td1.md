@@ -12,7 +12,7 @@ Session: 21 October 2026. Kit: pack 2026-10-14. All rows in this report are **re
 | Long comparison, one final row per model/question | Done, 100 rows | [`analysis/csv/model-question-comparison-en.csv`](../analysis/csv/model-question-comparison-en.csv) |
 | Models x questions matrix (pivot of the CSV above) | Done | [`analysis/spreadsheets/matrix-td1.xlsx`](../analysis/spreadsheets/matrix-td1.xlsx) |
 | Five-model summary | Done | [`analysis/csv/five-model-summary-en.csv`](../analysis/csv/five-model-summary-en.csv) |
-| Prompt, verbatim | Done, unchanged skeleton prompt | [`prompts/prompt-td1.md`](../prompts/prompt-td1.md) |
+| Prompt, verbatim | Done, unchanged skeleton prompt | [`prompt-td1.md`](prompt-td1.md) |
 
 ### Reference and independent check
 
@@ -73,14 +73,14 @@ The SQL text and the error fields of each failure are explained row by row in `m
 
 | Member | Role in TD 1 | Work |
 |---|---|---|
-| [name] | A | Batch gpt-oss-120b (Groq), `traces-A.csv` |
-| [name] | B | Batch gpt-oss-20b (Groq), `traces-B.csv`, `comparison-B.csv` |
-| [name] | C | Batch cohere north-mini-code (OpenRouter), `traces-C.csv` |
-| [name] | D | Batch qwen3.8-27b (Groq), `traces-D.csv` |
-| [name] | E | Batch dots-3-note-preview (OpenRouter), `traces-E.csv` |
-| [name] | F | [to complete] |
+| VERDES Adrian | A | Batch gpt-oss-120b (Groq), `traces-A.csv` |
+| PERKINS Luca | B | Batch gpt-oss-20b (Groq), `traces-B.csv`, `comparison-B.csv` |
+| KUETE Richard | C | Batch cohere north-mini-code (OpenRouter), `traces-C.csv` |
+| KHADRAOUI Oussama | D | Batch qwen3.8-27b (Groq), `traces-D.csv` |
+| DE GENTILE Océane | E | Batch dots-3-note-preview (OpenRouter), `traces-E.csv` |
+| SAMSOM Clément | F | [to complete] |
 | SAAID Myriam | G | References C05-C07; independent cross-check of the 20 references (`check_references.py`); trace merge audit; `model-question-comparison-en.csv` and `five-model-summary-en.csv`; prompt file |
-| [name] | H | [to complete] |
+| NORAT Faizan | H | [to complete] |
 
 All members wrote and cross-checked two or three reference queries. Coding assistance (Claude) was used for the cross-check script and the summary CSVs; the code was run and verified by the group, and no reference amount comes from a model answer.
 
