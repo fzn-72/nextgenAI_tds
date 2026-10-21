@@ -1,6 +1,6 @@
 # NextGenAI — TD1 to TD3
 
-## Group
+## Group (DIA 1 - SUB GROUP 1)
 
 - **Course:** Next Generation AI — ESILV
 - **Student kit version:** `2026-10-14`
