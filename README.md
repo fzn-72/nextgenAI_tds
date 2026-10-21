@@ -45,7 +45,7 @@ Never commit API keys, passwords, `.env` files or other credentials.
 
 ## TD1 — Model comparison
 
-**Status:** To be completed.
+**Status:** Completed.
 
 Planned documentation and outputs:
 - Reference questions: `reference-td1.csv`
